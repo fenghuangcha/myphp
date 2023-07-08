@@ -576,8 +576,9 @@ NewTV 江西,http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8
 
 凤凰卫视,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
-中文国际：http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-凤凰资讯2：http://111.20.40.170/PLTV/88888893/224/3221226546/index.m3u8
+凤凰卫视,http://www.flyfreely.top:4000/udp/239.255.30.50:8231
+凤凰资讯,http://www.flyfreely.top:4000/udp/239.255.30.70:8231
+凤凰香港,http://www.flyfreely.top:4000/udp/239.255.30.123:8231
 凤凰卫视,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 凤凰资讯,http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8

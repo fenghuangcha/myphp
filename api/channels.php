@@ -5,7 +5,7 @@ define('UA','testua');//检测的ua
 
 
 $ch['演示'] = ['id' => 'http://youtube.com/后面的id','qn' => '清晰度//5 1080 4 720 3 480 2 360 1 240 0 144','files' => '可生成的缓存文件个数','name' => '循环出来的列表的频道名'];
-$ch['tvbs'] = ['id' => 'YvdcZ_jpLXE','qn' => '0','files' => '500','name' => 'TVBS'];//TVBS
+$ch['tvbs'] = ['id' => '2mCSYvcfhtc','qn' => '0','files' => '500','name' => 'TVBS'];//TVBS
 //画质5 1080 4 720 3 480 2 360 1 240 0 144
 
 
